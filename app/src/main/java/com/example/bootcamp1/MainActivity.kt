@@ -42,5 +42,8 @@ class MainActivity : AppCompatActivity() {
 //        //ques6
 //        val obj6 = ques6()
 //        obj6.checkPair("abcdabcgstgstttc")
+
+        var a = abc()
+        a.print()
     }
 }
