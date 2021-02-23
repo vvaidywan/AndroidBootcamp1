@@ -8,6 +8,10 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        //Ques1
+        simpleInterest()
 
+        //Ques2
+        listOfEmployees()
     }
 }
